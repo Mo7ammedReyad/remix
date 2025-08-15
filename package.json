@@ -20,7 +20,8 @@
     "@remix-run/dev": "^2.17.0",
     "@remix-run/eslint-config": "^2.17.0",
     "typescript": "^5.9.2",
-    "wrangler": "^3.114.13"
+    "wrangler": "^3.114.13",
+    "esbuild": "^0.23.0"
   },
   "engines": {
     "node": ">=18"
